@@ -1,8 +1,8 @@
 # User Voice
 
-Customer request can be created under issues, we will review and label it once per week.
+Feature requests can be created under the issues tab, we will review and label requests once per week.
 
-## Labels explaination
+## Labels explanation
 
 * under review: Any new feature request
 * planned: We will start working on it within this quarter.
@@ -10,3 +10,6 @@ Customer request can be created under issues, we will review and label it once p
 * started
 * completed
 * declined: If request doesn't fit with our roadmap, we will declined with explaination.
+
+## Voting
+To vote on a feature request you would like to see implemented, you can "react" to the first comment of the issue and select the thumbs up. To do this, click on the emoji icon on the top right side of the comment.
