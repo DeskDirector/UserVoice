@@ -5,7 +5,7 @@ Feature requests can be created under the issues tab, we will review and label r
 ## Labels explanation
 
 * under review: Any new feature request
-* planned: We will start working on it within this quarter.
+* planned: We will start working on it.
 * backlog: This feature fits our vision but it will not be implemented within this quarter.
 * started: This feature is underway
 * completed: Feature has been implemented
