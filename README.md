@@ -19,4 +19,4 @@ To vote on a feature request you would like to see implemented, you can "react" 
 * One topic per issue. So other customer can vote and discuss around that topic.
 * Only feature request, not bug report. Please report bug to support.
 * Feature request against beta product will be considered afterward. If it is related to feedback. please report to support, so we can consider before even released.
-* Please describe reason for any request. Use [working backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html) to describe reason. Provide reasoning is more important than providing solution. Request with good reasoning will be considered before the one only provided solution.
+* Please describe reason for any request or feedback. Use [working backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html) to describe reason. Provide reasoning is more important than providing solution. Request with good reasoning will be easier and faster to process through than the one only provided solution.
