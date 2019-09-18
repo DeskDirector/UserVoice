@@ -2,6 +2,8 @@
 
 Feature requests can be created under the issues tab, we will review and label requests once per week.
 
+:thumbsup:[View the most voted issues here.](https://github.com/DeskDirector/UserVoice/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+
 ## Labels explanation
 
 * under review: Any new feature request
